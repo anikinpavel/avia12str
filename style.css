@@ -3,6 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background: #c7b39b url(img/фон\ 2.jpg); /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+}
+h1{
+    text-align: center;
+}
 .header{   
      padding: 10px 0;
     display: flex;
@@ -10,4 +17,63 @@
 }
 a{
     text-decoration: none;
+}
+.btn{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 600px;
+    background-position: center;
+}
+.images{
+    display: flex; 
+}
+.slp{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 600px;
+    background-position: center;
+}
+.lsp{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 600px;
+    background-position: center;
+}
+.pls{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 600px;
+    background-position: center;
+}
+.psp{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 600px;
+    background-position: center;
+}
+.sps{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 600px;
+    background-position: center;
+}
+.ssp{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 600px;
+    background-position: center;
+}
+.pss{
+    display: block;
+    margin: 0 auto;
+    left: 40%;
+    width: 600px;
+    background-position: center;
 }
